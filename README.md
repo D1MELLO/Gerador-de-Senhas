@@ -226,7 +226,7 @@ function copyPassword(){
 Para contribuir com este projeto, faça um fork do repositório, crie um branch com suas alterações e envie um pull request para revisão.
 
 ## Autor
-Desenvolvido por Dimello! :)
+Desenvolvido por D1MELLO! :)
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
